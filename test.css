@@ -1,0 +1,13 @@
+.safe
+{
+    font: bold;
+    color: green;
+    font-size: 20px;
+}
+
+.unsafe
+{
+    font: bold;
+    color: red;
+    font-size: 20px;
+}
