@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "file-server": "^2.1.0"
+    "file-server": "^2.2.1"
   }
 }
